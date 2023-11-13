@@ -3,3 +3,9 @@
 /PC3-IA/
 /HeartRiskDetector/
 /FakeNewsDetector/
+PC3-IA/
+HeartRiskDetector/
+FakeNewsDetector/
+*.PC3-IA/
+*.HeartRiskDetector/
+*.FakeNewsDetector/
