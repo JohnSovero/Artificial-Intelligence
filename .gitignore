@@ -3,10 +3,7 @@
 PC3-IA/
 HeartRiskDetector/
 FakeNewsDetector/
-env/
-/src/PC1/
-src/PC1/
-16_Inform_Participation/
-src\EF\
 src/EF/
-*.docx
+/src/EF/Redes de Kohonen.pptx
+/src/EF/PREGUNTA.docx
+/src/EF/u202115065_Examen_Final.ipynb
