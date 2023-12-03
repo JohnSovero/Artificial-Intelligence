@@ -1,10 +1,8 @@
-*.csv
 *.zip
 PC3-IA/
 HeartRiskDetector/
 FakeNewsDetector/
-src/EF/
-/src/EF/Redes de Kohonen.pptx
-/src/EF/PREGUNTA.docx
-/src/EF/u202115065_Examen_Final.ipynb
-/src/PC1
+/src/EF/
+/src/PC1/Control de Lectura.docx
+/src/16_Inform_Participation/
+/src/08_Exam_Partial
